@@ -1,2 +1,3 @@
 This is a test
-I am just chgecking
+I am just checking
+Testing part 2
